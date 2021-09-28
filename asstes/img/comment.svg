@@ -1,0 +1,13 @@
+<svg id="Group_7583" data-name="Group 7583" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Rectangle_2415" data-name="Rectangle 2415" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+    <rect width="24" height="24" stroke="none"/>
+    <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+  </g>
+  <g id="chat-comment-oval-speech-bubble-with-text-lines" transform="translate(1.464 1.464)">
+    <g id="_x32__26_">
+      <g id="Group_3671" data-name="Group 3671">
+        <path id="Path_11104" data-name="Path 11104" d="M13.828,11.194H7.243a.658.658,0,1,0,0,1.317h6.585a.658.658,0,1,0,0-1.317Zm1.317-3.951H5.926a.658.658,0,1,0,0,1.317h9.219a.658.658,0,1,0,0-1.317ZM10.536,0C4.717,0,0,4.127,0,9.219a8.824,8.824,0,0,0,3.951,7.19v4.663l4.615-2.8a12.082,12.082,0,0,0,1.97.167c5.819,0,10.536-4.127,10.536-9.219S16.355,0,10.536,0Zm0,17.12a10.656,10.656,0,0,1-2.226-.242l-3.1,1.863.041-3.054a7.635,7.635,0,0,1-3.934-6.47c0-4.364,4.127-7.9,9.219-7.9s9.219,3.538,9.219,7.9S15.627,17.12,10.536,17.12Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
